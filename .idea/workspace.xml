@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8ebbec8-e148-49ab-a825-40ed454e3ec3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LaunAmazonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AmazonLaunchSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ChatGPT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Citibank2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GmailLogin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Google.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LaunchAmazonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LinkedIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MasterCardBotHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Sovita.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "penkesr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/penkesr/Test2-Maven.git",
+    "accountId": "b33ec001-0a6d-413a-8971-3c2597e468eb"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.25.0/selenium-api-4.25.0-sources.jar!/org/openqa/selenium/internal/Require.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/LinkedIn.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mp125tltRTmsINmOj54I35sokY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AmazonAddToCart.executor": "Run",
+    "Application.AmazonLaunchSearch.executor": "Run",
+    "Application.ChatGPT.executor": "Run",
+    "Application.Citibank.executor": "Run",
+    "Application.Citibank2.executor": "Run",
+    "Application.Gmail.executor": "Run",
+    "Application.Google.executor": "Run",
+    "Application.GoogleSearch.executor": "Run",
+    "Application.LaunchAmazonApp.executor": "Run",
+    "Application.LaunchCitibankCareers.executor": "Run",
+    "Application.LinkedIn.executor": "Run",
+    "Application.LinkedInJobSearch.executor": "Run",
+    "Application.LinkedInLogin.executor": "Run",
+    "Maven.Test2-Maven [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/durga/IdeaProjects/Test2-Maven",
+    "onboarding.tips.debug.path": "C:/Users/durga/IdeaProjects/Test2-Maven/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "fileTemplates"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8ebbec8-e148-49ab-a825-40ed454e3ec3" name="Changes" comment="" />
+      <created>1727758496255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727758496255</updated>
+    </task>
+    <servers />
+  </component>
+</project>
