@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ebbec8-e148-49ab-a825-40ed454e3ec3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LaunAmazonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AmazonLaunchSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ChatGPT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Citibank2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Gmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GmailLogin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Google.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LaunchAmazonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LinkedIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MasterCardBotHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Sovita.java" afterDir="false" />
-    </list>
+    <list default="true" id="c8ebbec8-e148-49ab-a825-40ed454e3ec3" name="Changes" comment="Oct3rd-Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,6 +94,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727758496255</updated>
     </task>
+    <task id="LOCAL-00001" summary="Oct3rd-Commit">
+      <option name="closed" value="true" />
+      <created>1728004526247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728004526247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Oct3rd-Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct3rd-Commit" />
   </component>
 </project>
