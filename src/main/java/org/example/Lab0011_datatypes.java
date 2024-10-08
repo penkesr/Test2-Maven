@@ -5,27 +5,27 @@ import org.apache.xpath.operations.Bool;
 public class Lab0011_datatypes {
     public static void main(String[] args) {
         //Primitive - System defined
-        boolean FirstName = true;
-        byte LN =  100; // limit is -128 to 128 only [decimal system]
-        byte age = 122;
-        short s =1000;
-        int i = 109999; //int can store
-        long phonenumber = 6146871081;
-        float percentage = 75.2f;
-        char Name = 'S';
-        System.out.println(");
+        int i = 2147483647;
+        float f = 3.4028235E3F;
+        boolean b = true;
+        char c = 'S';
+        byte by = 127;
+        short s = 32767;
+
+        System.out.println("*****The Primitive Datatyes are below once*****");
+        System.out.println("1.int value is "+i);
+        System.out.println("2.float value is "+f);
+        System.out.println("3.boolean value is "+b);
+        System.out.println("4.char value is "+c);
+        System.out.println("5.byte value is "+by);
+        System.out.println("6.short value is "+s);
+
+
+        System.out.println("*****The Non-Primitive Datatyes are below once-Class- Object-Array-Interface-Enum-String*****");
 
         // Non Primitive - User defined
-        String Fullname = "Sandhya"
-
-
-
-
-
-
-
-
-
-
+        //Class- Object-Array-Interface-Enum-String
+        String MyName = "SANDAHYA RANI PENKE";
+        System.out.println("1.String Value is "+MyName);
     }
 }
