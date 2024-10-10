@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8ebbec8-e148-49ab-a825-40ed454e3ec3" name="Changes" comment="Oct3rd-Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ConstantVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DefineContant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/InstanceVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LocalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NonPremitiveDatatype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PrintTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/VariableTypesPrinting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Lab0011_datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Lab0011_datatypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NumberStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumberStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +72,12 @@
     "Application.ChatGPT.executor": "Run",
     "Application.Citibank.executor": "Run",
     "Application.Citibank2.executor": "Run",
+    "Application.ConstantVariables.executor": "Run",
+    "Application.DefineContant.executor": "Run",
     "Application.Gmail.executor": "Run",
     "Application.Google.executor": "Run",
     "Application.GoogleSearch.executor": "Run",
+    "Application.InstanceVariables.executor": "Run",
     "Application.JavaBooleans.executor": "Run",
     "Application.JavaMath.executor": "Run",
     "Application.JavaStatements.executor": "Run",
@@ -81,15 +93,21 @@
     "Application.LinkedIn.executor": "Run",
     "Application.LinkedInJobSearch.executor": "Run",
     "Application.LinkedInLogin.executor": "Run",
+    "Application.LocalVariables.executor": "Run",
     "Application.MultiplyVariables.executor": "Run",
+    "Application.NonPremitiveDatatype.executor": "Run",
     "Application.NumberStrings.executor": "Run",
     "Application.Operator.executor": "Run",
+    "Application.PrintTable.executor": "Run",
     "Application.SpecialCharacters.executor": "Run",
+    "Application.StaticVariable.executor": "Run",
     "Application.StringConCat.executor": "Run",
     "Application.StringLength.executor": "Run",
     "Application.StringLocate.executor": "Run",
     "Application.StringUpLow.executor": "Run",
     "Application.Strings.executor": "Run",
+    "Application.VariableTypes.executor": "Run",
+    "Application.VariableTypesPrinting.executor": "Run",
     "Application.Variables.executor": "Run",
     "Maven.Test2-Maven [clean].executor": "Run",
     "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
@@ -219,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728350838371</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Oct3rd-Commit">
+      <option name="closed" value="true" />
+      <created>1728352976112</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728352976112</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
