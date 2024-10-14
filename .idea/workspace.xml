@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8ebbec8-e148-49ab-a825-40ed454e3ec3" name="Changes" comment="Oct3rd-Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/example/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/example/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/example/IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/example/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/example/TypeCasting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/example/Typecasting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/example/WhileDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SimpleJavaOutputExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +107,9 @@
     "Application.StringLocate.executor": "Run",
     "Application.StringUpLow.executor": "Run",
     "Application.Strings.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.TypeCasting2.executor": "Run",
+    "Application.Typecasting1.executor": "Run",
     "Application.VariableTypes.executor": "Run",
     "Application.VariableTypesPrinting.executor": "Run",
     "Application.Variables.executor": "Run",
@@ -231,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728523081724</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Oct3rd-Commit">
+      <option name="closed" value="true" />
+      <created>1728609926145</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728609926147</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
