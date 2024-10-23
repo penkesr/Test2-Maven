@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8ebbec8-e148-49ab-a825-40ed454e3ec3" name="Changes" comment="Oct3rd-Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/example/CountVowelsConsonanants2Task2Oct21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/example/ForLoop2Task1Oct21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/example/PalindromTask3Oct21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Functions/example/UserDefinedFunctionsArthemetic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Loops/example/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loops/example/DoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Loops/example/WhileDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loops/example/WhileDo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +120,8 @@
     "Application.TypeCasting.executor": "Run",
     "Application.TypeCasting2.executor": "Run",
     "Application.Typecasting1.executor": "Run",
+    "Application.UserDefinedFunctions.executor": "Run",
+    "Application.UserDefinedFunctionsArthemetic.executor": "Run",
     "Application.VariableTypes.executor": "Run",
     "Application.VariableTypesPrinting.executor": "Run",
     "Application.Variables.executor": "Run",
@@ -323,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729214794153</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Oct3rd-Commit">
+      <option name="closed" value="true" />
+      <created>1729560705099</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1729560705100</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -334,6 +339,47 @@
         <option value="Default.Date" />
         <option value="Default.Subject" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="0f86a319-28a1-40eb-a148-cf424d347e56" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="0f86a319-28a1-40eb-a148-cf424d347e56">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/durga/IdeaProjects/Test2-Maven/src/main/java/Loops/example" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
