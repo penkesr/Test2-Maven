@@ -11,7 +11,7 @@ public class UserDefinedFunctionsArthemetic {
         System.out.println("Subtraction Result: " + result);
 
         // 3. With Parameters and Without return Type
-        multiply(10, 5);
+        multiply(20, 30);
 
         // 4. With Parameters and With return Type
         int divisionResult = divide(100, 20);
